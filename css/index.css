@@ -57,7 +57,3 @@ body {
   font-weight: 400;
   font-variation-settings: 'wdth' 100;
 }
-
-html {
-  scroll-behavior: smooth;
-}

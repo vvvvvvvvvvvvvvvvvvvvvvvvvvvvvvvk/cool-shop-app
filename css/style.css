@@ -1,0 +1,31 @@
+/* --------- HEADER ---------*/
+.icon-menu {
+  width: 28px;
+  height: 20px;
+}
+
+.icon-search {
+  width: 18px;
+  height: 17px;
+}
+
+.icon-favorite-light {
+  width: 36px;
+  height: 32px;
+}
+
+.icon-basket {
+  width: 40px;
+  height: 38px;
+}
+
+/* --------- MAIN ---------*/
+/* --- Види товарів --- */
+
+/* --- Реклама --- */
+
+/* --- Популярні --- */
+.icon-favorite-dark {
+  width: 27px;
+  height: 24px;
+}

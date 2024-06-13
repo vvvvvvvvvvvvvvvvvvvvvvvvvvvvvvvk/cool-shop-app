@@ -20,4 +20,4 @@
 
 **Тег** - слово, що позначає елемент.
 
-<img src="./images/html-tag-structure-image.png" width=200px/>
+<img src="./images/html-tag-structure-image.png" width=300px/>

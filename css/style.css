@@ -1,7 +1,18 @@
 /* --------- HEADER ---------*/
+.header {
+  display: flex;
+  background: var(--header-gradient);
+}
+
 .icon-menu {
   width: 28px;
   height: 20px;
+}
+
+.logo {
+  font-size: 40px;
+  font-family: var(--logo-font);
+  color: white;
 }
 
 .icon-search {

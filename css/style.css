@@ -1,10 +1,26 @@
 /* --------- HEADER ---------*/
 .header {
   height: 72px;
+  padding-left: 44px;
+  padding-right: 44px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background: var(--header-gradient);
+}
+
+.header-navigation,
+.header-actions {
+  display: flex;
+  align-items: center;
+}
+
+.header-navigation {
+  column-gap: 92px;
+}
+
+.header-actions {
+  column-gap: 28px;
 }
 
 .icon-menu {
@@ -25,6 +41,7 @@
 .input {
   width: 248px;
   height: 44px;
+  padding-left: 24px;
   border: 1px solid white;
   border-radius: 4px 0 0 4px;
   background-color: #eeeeee;

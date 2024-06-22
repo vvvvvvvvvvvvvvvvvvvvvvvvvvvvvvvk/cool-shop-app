@@ -87,6 +87,15 @@
 /* --- Види товарів --- */
 
 /* --- Реклама --- */
+.advertising {
+  height: 252px;
+  padding: 24px 60px;
+  display: flex;
+  justify-content: end;
+  background-size: cover;
+  background-position: center;
+  background-image: url(/images/tennis.jpg);
+}
 
 /* --- Популярні --- */
 .icon-favorite-dark {

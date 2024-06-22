@@ -57,3 +57,7 @@ body {
   font-weight: 400;
   font-variation-settings: 'wdth' 100;
 }
+
+.container {
+  padding: 44px;
+}
